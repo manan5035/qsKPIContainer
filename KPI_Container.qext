@@ -1,0 +1,14 @@
+{
+	"name": "KPI_Container",
+	"description": "KPI visual is a Container which can be used to show KPI and embed any other extension",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "nan.a.ma",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, KPI",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
