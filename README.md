@@ -34,7 +34,7 @@ specify the left/top/width/height in the property page\.
  
 * Dialog
   set an action for a visual cell to show a dialog.
-  ![dialog](https://github.com/manan5035/qsKPIContainer/blob/master/sample/showhidechart.png)
+  ![dialog](https://github.com/manan5035/qsKPIContainer/blob/master/sample/dialog.png)
   
 * Set variable
   set an action to set a variable's value.
