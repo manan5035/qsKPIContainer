@@ -25,4 +25,25 @@ specify the left/top/width/height in the property page\.
 ## Please see below demo
 
 * KPI
+  for the embeded chart, you need to create a chart firstly, then copy the chart to the visual cell.
 ![KPI](https://github.com/manan5035/qsKPIContainer/blob/master/sample/KPIDemo.png)
+
+* Show/Hide chart.
+  use a KPI to switch a variable between 0 and 1 and use 0 and 1 to switch 2 visual cells with bar chart and line chart. in below demo, both bar chart / line chart and button is created with this extension.
+ ![showhidechart](https://github.com/manan5035/qsKPIContainer/blob/master/sample/showhidechart.png)
+ 
+* Dialog
+  set an action for a visual cell to show a dialog.
+  ![dialog](https://github.com/manan5035/qsKPIContainer/blob/master/sample/showhidechart.png)
+  
+* Set variable
+  set an action to set a variable's value.
+  ![setvariable](https://github.com/manan5035/qsKPIContainer/blob/master/sample/setvariable.png)
+  
+* Popover
+  set an action to show popover when move the mouse over the entire chart.
+  ![popover](https://github.com/manan5035/qsKPIContainer/blob/master/sample/popover.png)
+  
+* Open web
+  set an action to open a web in brower.
+  ![openweb](https://github.com/manan5035/qsKPIContainer/blob/master/sample/openweb.png)
