@@ -22,7 +22,7 @@ specify the left/top/width/height in the property page\.
 with action, you can use this extention to create a menu or button
    
 
-## Please see below demo
+## Demo
 
 * KPI
   for the embeded chart, you need to create a chart firstly, then copy the chart to the visual cell.
