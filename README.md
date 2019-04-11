@@ -22,4 +22,7 @@ specify the left/top/width/height in the property page\.
 * \*with action, you can use this extention to create a menu or button
    
 
+## Please see below demo
 
+* KPI
+[KPI](https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/image/h%3D300/sign=10da86d6df43ad4bb92e40c0b2035a89/03087bf40ad162d93b3a196f1fdfa9ec8b13cde9.jpg)
