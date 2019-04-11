@@ -19,7 +19,7 @@ specify the left/top/width/height in the property page\.
 *  Show dialog and customize the message in the dialog
 *  show a popover
 *  open a website
-* \*with action, you can use this extention to create a menu or button
+with action, you can use this extention to create a menu or button
    
 
 ## Please see below demo
